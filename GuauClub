@@ -1,1 +1,872 @@
+<!doctype html>
+<html lang="en">
 
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="it">
+    <meta name="keywords" content="Rapoo,creative, agency, startup, Mobicon,onepage, clean, modern,business, company,it">
+    <meta name="author" content="Dreambuzz">
+
+    <!-- Plugins CSS -->
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/fonts/themify/themify-icons.css">
+
+    <link rel="stylesheet" href="assets/css/slick.css">
+    <link rel="stylesheet" href="assets/css/slick-theme.css">
+    <link rel="stylesheet" href="assets/css/all.css">
+
+    <!-- Theme CSS -->
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/responsive.css">
+
+    <title>Rapoo- It solutions &amp; Corporate template</title>
+</head>
+
+
+<body class="top-header">
+
+    <!-- LOADER TEMPLATE -->
+    <div id="page-loader">
+        <div class="loader-icon fa fa-spin colored-border"></div>
+    </div>
+    <!-- /LOADER TEMPLATE -->
+
+    
+
+    <div class="logo-bar d-none d-md-block d-lg-block bg-light">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-2">
+                    <div class="logo d-none d-lg-block">
+                        <!-- Brand -->
+                        <a class="navbar-brand js-scroll-trigger" href="index.html">
+                            <h2>GuauClub</h2>
+                        </a>
+                    </div>
+                </div>
+
+                
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- NAVBAR
+    ================================================= -->
+    <div class="main-navigation" id="mainmenu-area">
+        <div class="container">
+            <nav class="navbar navbar-expand-lg navbar-dark bg-primary main-nav navbar-togglable">
+
+                <a class="navbar-brand d-lg-none d-block" href="">
+                    <h4>GuauClub</h4>
+                </a>
+                <!-- Toggler -->
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="fa fa-bars"></span>
+                </button>
+
+                <!-- Collapse -->
+                <div class="collapse navbar-collapse" id="navbarCollapse">
+                    <!-- Links -->
+                    <ul class="navbar-nav ">
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarWelcome" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                Inicio
+                            </a>
+                            <div class="dropdown-menu" aria-labelledby="navbarWelcome">
+                                
+                                </a>
+                                
+                            </div>
+                        </li>
+                        <li class="nav-item ">
+                            <a href="about.html" class="nav-link js-scroll-trigger">
+                                GuauBox
+                            </a>
+                        </li>
+                        <li class="nav-item ">
+                            <a href="service.html" class="nav-link js-scroll-trigger">
+                                Suscripción
+                            </a>
+                        </li>
+                        <li class="nav-item ">
+                            <a href="pricing.html" class="nav-link js-scroll-trigger">
+                                Quienes somos
+                            </a>
+                        </li>
+
+                        <li class="nav-item ">
+                            <a href="project.html" class="nav-link js-scroll-trigger">
+                                Opiniones
+                            </a>
+                        </li>
+
+                        <li class="nav-item ">
+                            <a href="contact.html" class="nav-link">
+                                Contacto
+                            </a>
+                        </li>
+                    </ul>
+
+                    
+                </div> <!-- / .navbar-collapse -->
+            </nav>
+        </div> <!-- / .container -->
+    </div>
+
+
+    <!-- HERO
+    ================================================== -->
+    <section class="banner-area py-7">
+
+        <!-- Content -->
+
+        
+        <div class="container">
+            <div class="row  align-items-center">
+                <div class="col-md-12 col-lg-7 text-center text-lg-left">
+                    <div class="main-banner">
+                        <!-- Heading -->
+
+                        <h1 class="display-4 mb-4 font-weight-normal">
+                            <strong>LA FELICIDAD <br> QUE SE MERECE <br> TU MASCOTA</strong>
+                        </h1>
+
+
+                        <!-- Subheading -->
+                        <p class="lead mb-4">
+                           
+                        </p>
+
+                        <!-- Button -->
+                        <p class="mb-0">
+                            <a href="#" target="_blank" class="btn btn-primary btn-circled">
+                                ¡Suscribite!
+                            </a>
+                        </p>
+                    </div>
+                </div>
+
+                <div class="col-lg-5 d-none d-lg-block">
+                    <div class="banner-img-block">
+                        <img src="assets/img/banner-img-5.png" alt="banner-img" class="img-fluid">
+                    </div>
+                </div>
+            </div> <!-- / .row -->
+        </div> <!-- / .container -->
+    </section>
+
+    <!-- SECTIONS
+    ================================================== -->
+
+    <!-- FEATURES
+    ================================================== -->
+    <section class="section bg-grey" id="feature">
+        
+        <h2 class="section-title text-center">
+                            QUE TE OFRECEMOS
+                        </h2>
+        <div class="container">
+            <div class="row justy-content-center">
+                <div class="col-lg-3 col-sm-6 col-md-6">
+                    <div class="text-center feature-block">
+                        <div class="imagen-servicios mb-4">
+                            <img src="assets/img/service/icono1.png">
+                            
+                        </div>
+                        
+                        <!--<p>Recibirás una caja exclusiva para tu perro todos los meses</p>-->
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-sm-6 col-md-6">
+                    <div class="text-center feature-block">
+                        <div class="imagen-servicios mb-4">
+                            <img src="assets/img/service/icono2.png">
+                            
+                        </div>
+                        
+                        <!--<p>Juguetes de exclusivas boutiques nacionales e internacionales</p>-->
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-sm-6 col-md-6">
+                    <div class="text-center feature-block">
+                        <div class="imagen-servicios mb-4">
+                            <img src="assets/img/service/icono3.png">
+                        </div>
+                        
+                        <!--<p>Seleccionados con el aval del reconocido veterinario Dr. Juan Enrique Romero</p>-->
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-sm-6 col-md-6">
+                    <div class="text-center feature-block">
+                        <div class="imagen-servicios mb-4">
+                            <img src="assets/img/service/icono4.png">
+                        </div>
+                        
+                        <!--<p>Lo recibirás gratis en <br> la puerta de tu casa</p>-->
+                    </div>
+                </div>
+            </div>
+        </div> <!-- / .container -->
+    </section>
+
+
+    <!-- SERVICE-1
+    ================================================== -->
+    <section class="bg-grey" id="service">
+        <div class="container">
+            <div class="row ">
+                <div class="col-lg-4">
+                    <div class="service-img">
+                        <img src="assets/img/img1.png" alt="" class="img-fluid">
+                    </div>
+                </div>
+
+                <div class="col-lg-6 pl-4">
+                    <div class="service-content">
+                        <h1>TE PRESENTAMOS LA GUAUBOX</h1>
+                        <p>La Guau Box contiene una gran variedad de diferentes juguetes y golosinas exclusivas para perros entregadas en una hermosa caja. <br> Es ideal para quienes les gusta mimar a sus perros como si fueran sus propios hijos. </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!--<section class="pt-5 service-wrap">
+        <div class="container">
+            <div class="row ">
+                <div class="col-lg-8 offset-lg-4">
+                    <div class="carousel slide " id="service-carousel" data-ride="carousel">
+                        <div class="carousel-inner">
+                            <div class="carousel-item active">
+                                <div class="col-lg-12">
+                                    <div class="row">
+                                        <div class="col-lg-6">
+                                            <div class="service-block media">
+                                                <div class="imagen-box mr-3">
+                                                    <img src="assets/img/service/item1.png">
+                                                </div>
+                                                <div class="service-inner-content media-body">
+                                                    <h4>Elegí tu plan</h4>
+                                                    <p>Elegí la suscripción que más te guste</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-6">
+                                            <div class="service-block media">
+                                                <div class="imagen-box mr-3">
+                                                    <img src="assets/img/service/item2.png">
+                                                </div>
+                                                <div class="service-inner-content media-body">
+                                                    <h4>Personalizalo</h4>
+                                                    <p>Decinos el nombre y la raza de tu mascota</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="carousel-item">
+                                <div class="col-lg-12">
+                                    <div class="row">
+                                        <div class="col-lg-6">
+                                            <div class="service-block media">
+                                                <div class="imagen-box mr-3">
+                                                    <img src="assets/img/service/item3.png">
+                                                </div>
+                                                <div class="service-inner-content media-body">
+                                                    <h4>Envío</h4>
+                                                    <p>Te lo enviamos gratis a tu casa</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-6">
+                                            <div class="service-block media">
+                                                <div class="imagen-box mr-3">
+                                                    <img src="assets/img/service/item4.png">
+                                                </div>
+                                                <div class="service-inner-content media-body">
+                                                    <h4>¡Listo!</h4>
+                                                    <p>¡Disfrutá junto a tu mascota!</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-lg-12">
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+-->
+
+
+    <!-- Working Process
+    ================================================== -->
+    
+
+    <!-- Web services
+    ================================================== -->
+    <div id="razones">
+  <center>
+    <img src="assets/img/icon/razon1.png">
+    <img src="assets/img/icon/razon2.png">
+    <img src="assets/img/icon/razon3.png">
+    <img src="assets/img/icon/razon4.png">
+    
+  </center>
+</div>
+
+
+    <!-- Pricing
+    ================================================== -->
+    <section class="section" id="pricing">
+        <!-- Content -->
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-md-8 col-lg-6 text-center">
+                    <div class="section-heading">
+                        <!-- Heading -->
+                        <h2 class="section-title">
+                            ESTOS SON NUESTROS PLANES
+                        </h2>
+
+                        <!-- Subheading -->
+                        <p>
+                            Elegí el plan que más te guste y que comiencen las sorpresas
+                        </p>
+                    </div>
+                </div>
+            </div> <!-- / .row -->
+
+            <div class="row justify-content-center">
+                <div class="col-lg-4 col-sm-6 col-md-6">
+                    <div class="pricing-box text-center">
+                       <img src="assets/img/icon/precio1.png" alt=""> 
+                       <h3>ÚNICA VEZ</h3>
+                        
+                        <ul class="pricing-box text-center">
+                            Una única box
+                            
+                        </ul>
+                        <div class="price-block text-center">
+                             <h2><small>$</small>2000<span><br>mensual<br></span></h2>
+                        </div>
+
+
+                        <a href="#" class="btn btn-outline-dark btn-circled">Ver más</a>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-sm-6 col-md-6">
+                    <div class="pricing-box text-center">
+                        <img src="assets/img/icon/precio2.png" alt="">
+                        <h3>6 MESES</h3>
+                        
+
+                        <ul class="pricing-box text-center">
+                            Una box mensual por 6 meses
+                           
+                        </ul>
+
+                        <div class="price-block text-center">
+                             <h2><small>$</small>1700<span><br>mensual<br></span></h2>
+                        </div>
+
+                        <a href="#" class="btn btn-primary btn-circled">Ver más</a>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-sm-8 col-md-6">
+                    <div class="pricing-box text-center">
+                        <img src="assets/img/icon/precio3.png" alt="">
+                        <h3>1 AÑO </h3>
+                       
+                        <ul class="pricing-box text-center">
+                            Una box mensual por un año
+                            
+                        </ul>
+                         <div class="price-block">
+                             <h2><small>$</small>1500<span><br>mensual<br></span></h2>
+                        </div>
+
+
+                        <a href="#" class="btn btn-outline-dark btn-circled">Ver más</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Projects
+    ================================================== -->
+
+    <section class="section" id="projects-wrap">
+        <div class="overlay"></div>
+        <div class="container">
+            <div class="row">
+               
+                    <div class="section-heading">
+                        
+                    </div>
+                </div>
+                
+
+            <div class="row py-4">
+                <div class="col-lg-7 col-md-12 col-sm-12 ">
+                    <div class="single-project">
+                        <img src="assets/img/bg/img2.png" alt="" class="imagen-box">
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-12 col-sm-12 ">
+                    <div class="project-content-block">
+                       
+                        <h2>Quienes somos</h2>
+                        <p>Somos Andrea y Romina, amantes de los perros. Les damos la bienvenida a nuestro Pet Shop ubicado en el barrio de Recoleta. Con el advenimiento de la pandemia, hemos desarrollado este club exclusivo para poder brindarles un servicio único a nuestros clientes y a sus mascotas.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    
+    
+   <!-- TESTIMONIAL
+    ================================================== -->
+    <section class="section" id="section-testimonial">
+        <div class="container">
+           <div class="row align-items-center">
+                <div class="col-lg-4 col-sm-12 col-md-12">
+                    <div class="section-heading testimonial-heading">
+                        <h1>Nuestros <br> clientes dicen</h1>
+                        <p>Te compartimos las opiniones de todos nuestros amigos de GuauClub</p>
+                    </div>
+                </div>
+                <div class="col-lg-8 col-sm-12 col-md-12">
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <div class="test-inner ">
+                               <div class="test-author-thumb d-flex">
+                                   <img src="assets/img/client/test1.png" alt="Testimonial author" class="img-fluid">
+                                   <div class="test-author-info">
+                                       <h4>Erika Vander</h4>
+                                       
+                                   </div>
+                               </div>
+
+                                ¡Me encantó! Mi perro juega todos los días con los juguetes y le encanta la comida.
+
+                                
+                            </div>
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="test-inner ">
+                               <div class="test-author-thumb d-flex">
+                                   <img src="assets/img/client/test2.png" alt="Testimonial author" class="img-fluid">
+                                   <div class="test-author-info">
+                                       <h4>Tamara Río</h4>
+                                    
+                                   </div>
+                               </div>
+
+                                Los productos son excelentes. La calidad es única, mi perro Pochi está muy feliz.
+
+                                
+                            </div>
+                        </div>
+                    </div>
+                    
+                     <div class="row">
+                        <div class="col-lg-6">
+                            <div class="test-inner ">
+                               <div class="test-author-thumb d-flex">
+                                   <img src="assets/img/client/test3.png" alt="Testimonial author" class="img-fluid">
+                                   <div class="test-author-info">
+                                       <h4>Victor Rodriguez</h4>
+                                       
+                                   </div>
+                               </div>
+
+                                Muy buena la caja, muy completa y los productos son de excelente calidad.
+
+                                
+                            </div>
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="test-inner ">
+                               <div class="test-author-thumb d-flex">
+                                   <img src="assets/img/client/test4.png" alt="Testimonial author" class="img-fluid">
+                                   <div class="test-author-info">
+                                       <h4>Camilo Sandis</h4>
+                                       
+                                   </div>
+                               </div>
+
+                                ¡Me encantó! Mi perro juega todos los días con los juguetes y le encanta la comida.
+
+                                
+                            </div>
+                        </div>
+                    </div>
+                    
+                     
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+<!-- MARCAS
+    ================================================== 
+<section class="masrcas">
+<div class="text-center">
+            <div class="row justy-content-center">
+                <div class="col-lg-3 col-sm-6 col-md-6">
+                    <div class="text-center feature-block">
+                        <div class="imagen-servicios mb-4">
+                            <img src="assets/img/service/royal.png">
+                            
+                        </div>
+
+        <div class="text-center">
+            <div class="row justy-content-center">
+                <div class="col-lg-3 col-sm-6 col-md-6">
+                    <div class="text-center feature-block">
+                        <div class="imagen-servicios mb-4">
+                            <img src="assets/img/service/purina.png">
+                            
+                        </div>
+
+         <div class="text-center">
+            <div class="row justy-content-center">
+                <div class="col-lg-3 col-sm-6 col-md-6">
+                    <div class="text-center feature-block">
+                        <div class="imagen-servicios mb-4">
+                            <img src="assets/img/service/pedigree.png">
+                            
+                        </div>
+
+           <div class="te">
+            <div class="row justy-content-center">
+                <div class="col-lg-3 col-sm-6 col-md-6">
+                    <div class="text-center feature-block">
+                        <div class="imagen-servicios mb-4">
+                            <img src="assets/img/service/puppis.png">
+                            
+                        </div>
+
+                                                    <div class="container">
+            <div class="row justy-content-center">
+                <div class="col-lg-3 col-sm-6 col-md-6">
+                    <div class="text-center feature-block">
+                        <div class="imagen-servicios mb-4">
+                            <img src="assets/img/service/petco.png">
+                            
+                        </div>
+</section>                          
+---->
+
+
+ 
+<div id="contenedor mb-4">
+  <center>
+    <img src="assets/img/service/royal.png">
+    <img src="assets/img/service/purina.png">
+    <img src="assets/img/service/pedigree.png">
+    <img src="assets/img/service/puppis.png">
+    <img src="assets/img/service/petco.png">
+  </center>
+</div>
+
+
+    <!-- CONTACT
+    ================================================== -->
+   
+<section class="section" id="contact">
+        <div class="container">
+            <div class="row mb-4">
+                <div class="col-md-8 col-lg-6">
+                    
+                    <!-- Heading -->
+                    <h2 class="section-title mb-2 ">
+                        CONTACTANOS</span>
+                    </h2>
+
+                    <!-- Subheading -->
+                    <p class="mb-5 ">
+                        ¿Tenés alguna duda? ¡Escribinos!
+                                        </p>
+
+                </div>
+            </div> <!-- / .row -->
+
+            <div class="row">
+                <div class="col-lg-6">
+                   <!-- form message -->
+                    <div class="row">
+                        <div class="col-12">
+                            <div class="alert alert-success contact__msg" style="display: none" role="alert">
+                                Tu mensaje fue enviado exitosamente
+                            </div>
+                        </div>
+                    </div>
+                    <!-- end message -->
+                    <!-- Contacts Form -->
+                    <form class="contact_form" action="mail.php">
+                        <div class="row">
+                            <!-- Input -->
+                            <div class="col-sm-6 mb-6">
+                                <div class="form-group">
+                                    <label class="h6 small d-block text-uppercase">
+                                        Nombre
+                                        <span class="text-danger">*</span>
+                                    </label>
+
+                                    <div class="input-group">
+                                        <input class="form-control" name="name" id="name" required="" placeholder="Nombre" type="text">
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- End Input -->
+
+                            <!-- Input -->
+                            <div class="col-sm-6 mb-6">
+                                <div class="form-group">
+                                    <label class="h6 small d-block text-uppercase">
+                                        Apellido
+                                        <span class="text-danger">*</span>
+                                    </label>
+
+                                    <div class="input-group ">
+                                        <input class="form-control" name="email" id="email" required="" placeholder="Apellido" type="email">
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- End Input -->
+
+                            <div class="w-100"></div>
+
+                            <!-- Input -->
+                            <div class="col-sm-6 mb-6">
+                                <div class="form-group">
+                                    <label class="h6 small d-block text-uppercase">
+                                        Mail
+                                        <span class="text-danger">*</span>
+                                    </label>
+
+                                    <div class="input-group">
+                                        <input class="form-control" name="subject" id="subject" required="" placeholder="Mail" type="text">
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- End Input -->
+
+                            <!-- Input -->
+                            <div class="col-sm-6 mb-6">
+                                <div class="form-group">
+                                    <label class="h6 small d-block text-uppercase">
+                                        Teléfono
+                                        <span class="text-danger">*</span>
+                                    </label>
+
+                                    <div class="input-group ">
+                                        <input class="form-control" id="phone" name="phone" required="" placeholder="Teléfono" type="text">
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- End Input -->
+                        </div>
+
+                        <!-- Input -->
+                        <div class="form-group mb-5">
+                            <label class="h6 small d-block text-uppercase">
+                                ¿En qué te podemos ayudar?
+                                <span class="text-danger">*</span>
+                            </label>
+
+                            <div class="input-group">
+                                <textarea class="form-control" rows="4" name="message" id="message" required="" placeholder="Dejanos tu mensaje..."></textarea>
+                            </div>
+                        </div>
+                        <!-- End Input -->
+
+                        <div class="">
+                           <input name="submit" type="submit" class="btn btn-primary btn-circled" value="Send Message">
+                           
+                            
+                        </div>
+                    </form>
+                    <!-- End Contacts Form -->
+                </div>
+
+                <div class="col-lg-6 col-md-6">
+                    <!-- START MAP -->
+                    
+                    <!-- END MAP -->
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+ 
+    <!-- FOOTER
+    ================================================== -->
+    <footer class="section " id="footer">
+        <div class="overlay footer-overlay"></div>
+        <!--Content -->
+        <div class="container">
+            <div class="row justify-content-start">
+                <div class="col-lg-4 col-sm-12">
+                    <div class="footer-widget">
+                        <!-- Brand -->
+                        <a href="#" class="footer-brand text-white">
+                            GuauClub
+                        </a>
+                        
+                    </div>
+                </div>
+
+                <div class="col-lg-3 ml-lg-auto col-sm-12">
+                    <div class="footer-widget">
+                        <h3>Account</h3>
+                        <!-- Links -->
+                        <ul class="footer-links ">
+                            <li>
+                                <a href="#">
+                                    Terms and conditions
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    Privacy policy
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    Affiliate services
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    Help and support
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    Frequently Asked Question
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+
+                <div class="col-lg-2 col-sm-6">
+                    <div class="footer-widget">
+                        <h3>About</h3>
+                        <!-- Links -->
+                        <ul class="footer-links ">
+                            <li>
+                                <a href="#">
+                                    Services
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    About Us
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    Pricing
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    Products Shop
+                                </a>
+                            </li>
+
+                            <li>
+                                <a href="#">
+                                    Contact
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="col-lg-2 col-sm-6">
+                    <div class="footer-widget">
+                        <h3>Socials</h3>
+                        <!-- Links -->
+                        <ul class="list-unstyled footer-links">
+                            <li><a href="#"><i class="fab fa-facebook-f"></i>Facebook</a></li>
+                            <li>
+                            <a href="#"><i class="fab fa-twitter"></i>Twitter
+                            </a></li>
+                            <li><a href="#"><i class="fab fa-pinterest-p"></i>Pinterest
+                            </a></li>
+                            <li><a href="#"><i class="fab fa-linkedin"></i>linkedin
+                            </a></li>
+                            <li><a href="#"><i class="fab fa-youtube"></i>YouTube
+                            </a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div> <!-- / .row -->
+
+
+            <div class="row text-right pt-5">
+                <div class="col-lg-12">
+                    <!-- Copyright -->
+                    <p class="footer-copy ">
+                        &copy; Copyright <span class="current-year"><a href="https://themefisher.com/free-bootstrap-templates">Free Bootstrap Templates</a></span> All rights reserved.
+                    </p>
+                </div>
+            </div> <!-- / .row -->
+        </div> <!-- / .container -->
+    </footer>
+
+
+    <!--  Page Scroll to Top  -->
+
+    <a class="scroll-to-top js-scroll-trigger" href=".top-header">
+        <i class="fa fa-angle-up"></i>
+    </a>
+
+    <!-- JAVASCRIPT
+    ================================================== -->
+    <!-- Global JS -->
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/popper.min.js"></script>
+
+    <!-- Plugins JS -->
+    <script src="assets/js/bootstrap.min.js"></script>
+
+    <!-- Slick JS -->
+    <script src="assets/js/jquery.easing.1.3.js"></script>
+    <script src="assets/js/slick.min.js"></script>
+    <!-- Theme JS -->
+    <script src="assets/js/theme.js"></script>
+
+</body>
+
+</html>
